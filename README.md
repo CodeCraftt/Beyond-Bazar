@@ -4,6 +4,8 @@
 
 Welcome to BeyondBazar, the epitome of online shopping! BeyondBazar is a feature-rich e-commerce platform designed for a seamless and secure shopping experience. With a dynamic customer interface and an extensive admin panel, BeyondBazar caters to both customers and administrators, ensuring a comprehensive solution for all.
 
+ 📹 Demo Video :- [Beyond Bazar](https://drive.google.com/file/d/1rWTtHWeLi0e3VDasM15EgPgeRZbELnUD/view?usp=sharing).
+
 ## 🌟 Customer Features
 
 - **Latest Fashion Trends:** Explore and shop the newest fashion items available on the site.
